@@ -3,6 +3,7 @@
 Text generation like a poem using a single LSTM layer
 Not organized file (file path, static data) 
 
+
 === First result ===<br/> 
 찍힌 너그러워져서 이 밤 성 에 더욱더 긴장 하게 뜯어라 적 처럼<br/> 
  이 일어선다 <br/> 
